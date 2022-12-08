@@ -1,0 +1,35 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.bg-container {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  height: 400px;
+  width: 400px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-style {
+  height: 40px;
+  width: 150px;
+  border-radius: 20px;
+  color: #000000;
+  background-color: #ffffff;
+  margin-top: 20px;
+  border-width: 0px;
+  font-family: roboto;
+}
+.main-heading {
+  color: #ffffff;
+  font-family: roboto;
+}
